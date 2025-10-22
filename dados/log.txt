@@ -1,0 +1,147 @@
+=== LOG DE EXECUÇÃO ===
+22/10/2025 19:27:00 - Cadastro de novo filme: Circulo de Fogo 
+22/10/2025 19:27:25 - Cadastro de novo filme: Coração de aço 
+22/10/2025 19:27:27 - Listagem de filmes
+22/10/2025 19:27:38 - Listagem de filmes
+22/10/2025 19:27:59 - Edição de filme ID 1
+22/10/2025 19:28:04 - Listagem de filmes
+22/10/2025 19:28:06 - Exclusão de filme ID 2
+22/10/2025 19:28:10 - Listagem de filmes
+22/10/2025 19:30:41 - Listagem de filmes
+22/10/2025 19:32:28 - Listagem de filmes
+22/10/2025 19:32:30 - Exclusão de filme ID 1
+22/10/2025 19:32:32 - Listagem de filmes
+22/10/2025 19:32:45 - Cadastro de novo filme: 1
+22/10/2025 19:34:23 - Listagem de filmes
+22/10/2025 19:34:25 - Exclusão de filme ID 1
+22/10/2025 19:34:29 - Listagem de filmes
+22/10/2025 19:34:45 - Listagem de filmes
+22/10/2025 19:35:56 - Listagem de filmes
+22/10/2025 19:35:59 - Listagem de filmes
+22/10/2025 19:36:00 - Listagem de filmes
+22/10/2025 19:36:01 - Listagem de filmes
+22/10/2025 19:36:01 - Listagem de filmes
+22/10/2025 19:36:01 - Listagem de filmes
+22/10/2025 19:36:01 - Listagem de filmes
+22/10/2025 19:36:01 - Listagem de filmes
+22/10/2025 19:36:01 - Listagem de filmes
+22/10/2025 19:36:02 - Listagem de filmes
+22/10/2025 19:36:02 - Listagem de filmes
+22/10/2025 19:36:02 - Listagem de filmes
+22/10/2025 19:36:02 - Listagem de filmes
+22/10/2025 19:36:02 - Listagem de filmes
+22/10/2025 19:36:03 - Listagem de filmes
+22/10/2025 19:36:03 - Listagem de filmes
+22/10/2025 19:36:03 - Listagem de filmes
+22/10/2025 19:36:03 - Listagem de filmes
+22/10/2025 19:36:03 - Listagem de filmes
+22/10/2025 19:36:03 - Listagem de filmes
+22/10/2025 19:36:04 - Listagem de filmes
+22/10/2025 19:36:04 - Listagem de filmes
+22/10/2025 19:36:04 - Listagem de filmes
+22/10/2025 19:36:04 - Listagem de filmes
+22/10/2025 19:36:04 - Listagem de filmes
+22/10/2025 19:36:05 - Listagem de filmes
+22/10/2025 19:36:05 - Listagem de filmes
+22/10/2025 19:36:05 - Listagem de filmes
+22/10/2025 19:36:05 - Listagem de filmes
+22/10/2025 19:36:05 - Listagem de filmes
+22/10/2025 19:36:06 - Listagem de filmes
+22/10/2025 19:36:06 - Listagem de filmes
+22/10/2025 19:37:35 - Listagem de filmes
+22/10/2025 19:37:38 - Listagem de filmes
+22/10/2025 19:38:08 - Listagem de filmes
+22/10/2025 19:40:05 - Listagem de filmes
+22/10/2025 19:40:06 - Listagem de filmes
+22/10/2025 19:40:07 - Listagem de filmes
+22/10/2025 19:45:19 - Listagem de filmes
+22/10/2025 19:47:56 - Listagem de filmes
+22/10/2025 19:50:07 - Cadastro de novo filme: 1
+22/10/2025 19:51:49 - Cadastro de novo filme: 1
+22/10/2025 19:51:54 - Listagem de filmes
+22/10/2025 19:52:32 - Listagem de filmes
+22/10/2025 19:53:22 - Listagem de filmes
+22/10/2025 19:53:43 - Edição de filme ID 1
+22/10/2025 19:54:19 - Listagem de filmes
+22/10/2025 19:54:21 - Exclusão de filme ID 1
+22/10/2025 19:54:25 - Listagem de filmes
+22/10/2025 19:54:27 - Exclusão de filme ID 2
+22/10/2025 19:54:28 - Listagem de filmes
+22/10/2025 19:54:30 - Listagem de filmes
+22/10/2025 19:54:31 - Listagem de filmes
+22/10/2025 19:54:32 - Listagem de filmes
+22/10/2025 19:54:32 - Listagem de filmes
+22/10/2025 19:54:33 - Listagem de filmes
+22/10/2025 20:08:41 - Cadastro de novo filme: circulo de fogo 
+22/10/2025 20:10:08 - Cadastro de novo filme: mamae loira 
+22/10/2025 20:10:12 - Listagem de filmes
+22/10/2025 20:17:02 - Cadastro de novo filme: circulo de fogo 
+22/10/2025 20:17:06 - Listagem de filmes
+22/10/2025 20:17:11 - Listagem de filmes
+22/10/2025 20:17:15 - Exclusão de filme ID 3
+22/10/2025 20:17:20 - Listagem de filmes
+22/10/2025 20:17:24 - Listagem de filmes
+22/10/2025 20:17:27 - Exclusão de filme ID 1
+22/10/2025 20:17:29 - Listagem de filmes
+22/10/2025 20:17:31 - Exclusão de filme ID 2
+22/10/2025 20:17:54 - Listagem de filmes
+22/10/2025 20:17:58 - Listagem de filmes
+22/10/2025 20:21:56 - Cadastro de novo filme: circulo de fogo 
+22/10/2025 20:27:55 - Listagem de filmes
+22/10/2025 20:28:38 - Cadastro de novo filme: Test Movie
+22/10/2025 20:30:12 - Listagem de filmes
+22/10/2025 20:30:21 - Listagem de filmes
+22/10/2025 20:30:42 - Edição de filme ID 1
+22/10/2025 20:30:45 - Listagem de filmes
+22/10/2025 20:30:48 - Exclusão de filme ID 1
+22/10/2025 20:36:33 - Listagem de filmes
+22/10/2025 20:36:41 - Listagem de filmes
+22/10/2025 20:36:45 - Listagem de filmes
+22/10/2025 20:38:38 - Listagem de filmes
+22/10/2025 20:38:39 - Listagem de filmes
+22/10/2025 20:38:40 - Listagem de filmes
+22/10/2025 20:38:45 - Listagem de filmes
+22/10/2025 20:38:46 - Listagem de filmes
+22/10/2025 20:40:04 - Cadastro de novo filme: padre
+22/10/2025 20:40:09 - Listagem de filmes
+22/10/2025 20:40:40 - Listagem de filmes
+22/10/2025 20:40:53 - Listagem de filmes
+22/10/2025 20:40:56 - Listagem de filmes
+22/10/2025 20:41:00 - Listagem de filmes
+22/10/2025 20:41:11 - Cadastro de novo filme: padre 
+22/10/2025 20:41:14 - Listagem de filmes
+22/10/2025 20:41:16 - Listagem de filmes
+22/10/2025 20:41:17 - Listagem de filmes
+22/10/2025 20:41:46 - Listagem de filmes
+22/10/2025 20:42:28 - Listagem de filmes
+22/10/2025 20:42:30 - Exclusão de filme ID 1
+22/10/2025 20:42:32 - Listagem de filmes
+22/10/2025 20:42:34 - Exclusão de filme ID 2
+22/10/2025 20:42:46 - Cadastro de novo filme: circulo de fogo 
+22/10/2025 20:42:48 - Listagem de filmes
+22/10/2025 20:42:50 - Listagem de filmes
+22/10/2025 20:43:09 - Listagem de filmes
+22/10/2025 20:43:14 - Listagem de filmes
+22/10/2025 20:43:19 - Listagem de filmes
+22/10/2025 20:43:33 - Listagem de filmes
+22/10/2025 20:43:35 - Listagem de filmes
+22/10/2025 20:43:41 - Listagem de filmes
+22/10/2025 20:43:43 - Exclusão de filme ID 1
+22/10/2025 20:43:58 - Cadastro de novo filme: circulo de fogo 
+22/10/2025 20:44:44 - Cadastro de novo filme: papa
+22/10/2025 20:44:46 - Listagem de filmes
+22/10/2025 20:44:50 - Listagem de filmes
+22/10/2025 20:45:06 - Edição de filme ID 2
+22/10/2025 20:45:49 - Cadastro de novo filme: olho de aguia 
+22/10/2025 20:45:56 - Listagem de filmes
+22/10/2025 20:46:07 - Cadastro de novo filme: mamama 
+22/10/2025 20:46:12 - Listagem de filmes
+22/10/2025 20:46:30 - Edição de filme ID 4
+22/10/2025 20:46:35 - Listagem de filmes
+22/10/2025 20:46:37 - Exclusão de filme ID 1
+22/10/2025 20:46:39 - Listagem de filmes
+22/10/2025 20:46:40 - Exclusão de filme ID 2
+22/10/2025 20:46:44 - Listagem de filmes
+22/10/2025 20:46:46 - Exclusão de filme ID 3
+22/10/2025 20:47:18 - Listagem de filmes
+22/10/2025 20:47:20 - Exclusão de filme ID 4
