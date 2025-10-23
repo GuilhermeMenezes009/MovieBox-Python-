@@ -1,8 +1,8 @@
 # MovieBox
 
 ## Integrantes do grupo
-- Nome: Fulano de Tal | RA: 123456
-- Nome: Beltrano da Silva | RA: 654321
+- Nome: Guilherme Vieira Menezes | RA: 1134714
+- Nome: Vinicius Gehrng Capellari | RA: 1138972
 
 ## Tema escolhido
 Sistema de cadastro e gerenciamento de filmes no terminal.
