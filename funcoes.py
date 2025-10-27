@@ -46,7 +46,12 @@ def cadastrar():
     try:
         novo_id = str(len(registros) + 1)
         titulo = input("Digite o título: ")
-        genero = input("Digite o gênero: ")
+        while True:
+            genero = input("Digite o gênero: ")
+            if not genero.strip() or any(c.isdigit() for c in genero):
+                print("Erro: O gênero não pode estar vazio, conter apenas espaços ou números. Tente novamente.")
+            else:
+                break
         ano = input("Digite o ano: ")
 
         registros.append({"id": novo_id, "titulo": titulo, "genero": genero, "ano": ano})
@@ -76,8 +81,13 @@ def editar():
         edit_id = input("Digite o ID do filme que deseja editar: ")
         for r in registros:
             if r["id"] == edit_id:
+                novo_genero = input(f"Novo gênero ({r['genero']}): ")
+                if novo_genero.strip():
+                    if any(c.isdigit() for c in novo_genero):
+                        print("Erro: O gênero não pode conter números.")
+                    else:
+                        r["genero"] = novo_genero
                 r["titulo"] = input(f"Novo título ({r['titulo']}): ") or r["titulo"]
-                r["genero"] = input(f"Novo gênero ({r['genero']}): ") or r["genero"]
                 r["ano"] = input(f"Novo ano ({r['ano']}): ") or r["ano"]
                 salvar_dados(registros)
                 registrar_log(f"Edição de filme ID {edit_id}")
@@ -105,3 +115,4 @@ def excluir():
         print("ID não encontrado.")
     except Exception as e:
         print(f"Erro ao excluir: {e}")
+        

@@ -1,0 +1,1 @@
+- [x] Modificar a função editar() em funcoes.py para permitir entrada vazia no gênero, mantendo o valor antigo se vazio, e validando apenas se preenchido.
