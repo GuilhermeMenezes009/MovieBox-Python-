@@ -2,6 +2,7 @@ from funcoes import cadastrar, listar, editar, excluir, limpar_terminal
 
 def menu():
     while True:
+        limpar_terminal()  # ← ESTA É A LINHA NOVA
         print("\n=== MovieBox ===")
         print("1 - Cadastrar Filme")
         print("2 - Listar Filmes")
